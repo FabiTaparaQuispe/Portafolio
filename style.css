@@ -66,3 +66,10 @@ footer {
         flex: 1 1 100%;
     }
 }
+.profile-photo {
+    display: block;
+    max-width: 200px; /* Ajusta este valor según tu preferencia */
+    height: auto;
+    border-radius: 50%;
+    margin: 0 auto 20px;
+}
